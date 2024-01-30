@@ -7,10 +7,13 @@
 - ⚡ Fun fact: ...
 
 <!---
-paolo-mad/paolo-mad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+paolo-mad/paolo-mad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<img width="480" alt="Screen Shot 2024-01-30 at 14 30 04" src="https://github.com/paolo-mad/paolo-mad/assets/148433895/e409ab25-f8a2-49ac-a418-6533d899ee6c">
+
 You can click the Preview link to take a look at your changes.
 --->
 Self motivated problem solver with background in design, advertising, customer
 care and administration. Great language skills to which was added Spanish
 most recently. Adaptable and energetic with a an eye for detail, looking for a
 new opportunities as webdeveloper.
+<img width="480" alt="Screen Shot 2024-01-30 at 14 30 04" src="https://github.com/paolo-mad/paolo-mad/assets/148433895/33aefa5c-fef9-44db-969c-4db4508de7eb">
+
